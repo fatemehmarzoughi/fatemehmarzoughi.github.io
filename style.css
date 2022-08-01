@@ -8,6 +8,11 @@
     top: 0px;
     background-color: #333;
     bottom: 0;
+    background-image: url('../bg.jpeg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
 }
 
 .btn {
@@ -15,12 +20,14 @@
     align-items: center;
     justify-content: center;
     padding: 30px;
-    background-color: #FFEBEA;
+    background-color: #011440;
     width: fit-content;
-    border-radius: 20px;
-    color: #E884A1;
+    border-radius: 8px;
+    color: #a4e0ff;
     text-decoration: none;
+    font-family: system-ui;
     font-size: 40px;
+    border: 1px solid #a4e0ff;
 }
 
 @media screen and (max-width: 680px)  {
