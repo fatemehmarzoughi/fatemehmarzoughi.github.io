@@ -1,0 +1,23 @@
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    left: 0px;
+    right: 0px;
+    top: 0px;
+    background-color: #333;
+    bottom: 0;
+}
+
+.btn{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    background-color: #FFEBEA;
+    width: fit-content;
+    border-radius: 20px;
+    color: #E884A1;
+    text-decoration: none;
+}
