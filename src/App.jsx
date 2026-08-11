@@ -118,7 +118,7 @@ function App() {
           <a href="#stack">Stack</a>
           <a href="#experience">Experience</a>
         </div>
-        <a className="pill-button ghost" href="mailto:saba@example.com">
+        <a className="pill-button ghost" href="mailto:saba.marzoughi18@gmail.com">
           Let&apos;s talk
         </a>
       </nav>
