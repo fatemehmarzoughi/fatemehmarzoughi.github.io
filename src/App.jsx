@@ -315,15 +315,12 @@ function App() {
             SABA<span>MARZOUGHI</span>
           </a>
           <div className="footer-links">
-            <a href="mailto:saba@example.com">Email: saba@example.com</a>
-            <a href="https://linkedin.com" target="_blank" rel="noreferrer">
+            <a href="mailto:saba@example.com">Email: saba.marzoughi18@gmail.com</a>
+            <a href="https://www.linkedin.com/in/sabamarzoughi/" target="_blank" rel="noreferrer">
               LinkedIn
             </a>
-            <a href="https://github.com" target="_blank" rel="noreferrer">
+            <a href="https://github.com/fatemehmarzoughi" target="_blank" rel="noreferrer">
               GitHub
-            </a>
-            <a href="https://twitter.com" target="_blank" rel="noreferrer">
-              Twitter
             </a>
           </div>
         </div>
